@@ -1,15 +1,13 @@
 {
-  "files": {
-    "main.css": "/react-club-app/static/css/main.073c9b0a.css",
-    "main.js": "/react-club-app/static/js/main.323f838f.js",
-    "static/js/787.cadbc58b.chunk.js": "/react-club-app/static/js/787.cadbc58b.chunk.js",
-    "index.html": "/react-club-app/index.html",
-    "main.073c9b0a.css.map": "/react-club-app/static/css/main.073c9b0a.css.map",
-    "main.323f838f.js.map": "/react-club-app/static/js/main.323f838f.js.map",
-    "787.cadbc58b.chunk.js.map": "/react-club-app/static/js/787.cadbc58b.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.323f838f.js"
-  ]
+  "main.css": "/react-club-app/static/css/main.6d2fe0a8.chunk.css",
+  "main.js": "/react-club-app/static/js/main.cf23d721.chunk.js",
+  "main.js.map": "/react-club-app/static/js/main.cf23d721.chunk.js.map",
+  "static/js/1.1a4d7d12.chunk.js": "/react-club-app/static/js/1.1a4d7d12.chunk.js",
+  "static/js/1.1a4d7d12.chunk.js.map": "/react-club-app/static/js/1.1a4d7d12.chunk.js.map",
+  "runtime~main.js": "/react-club-app/static/js/runtime~main.56231a1d.js",
+  "runtime~main.js.map": "/react-club-app/static/js/runtime~main.56231a1d.js.map",
+  "static/css/main.6d2fe0a8.chunk.css.map": "/react-club-app/static/css/main.6d2fe0a8.chunk.css.map",
+  "index.html": "/react-club-app/index.html",
+  "precache-manifest.8c90ef234924994d6fc12990d72a9e1f.js": "/react-club-app/precache-manifest.8c90ef234924994d6fc12990d72a9e1f.js",
+  "service-worker.js": "/react-club-app/service-worker.js"
 }
