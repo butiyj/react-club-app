@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-club-app/static/css/main.073c9b0a.css",
+    "main.js": "/react-club-app/static/js/main.323f838f.js",
+    "static/js/787.cadbc58b.chunk.js": "/react-club-app/static/js/787.cadbc58b.chunk.js",
+    "index.html": "/react-club-app/index.html",
+    "main.073c9b0a.css.map": "/react-club-app/static/css/main.073c9b0a.css.map",
+    "main.323f838f.js.map": "/react-club-app/static/js/main.323f838f.js.map",
+    "787.cadbc58b.chunk.js.map": "/react-club-app/static/js/787.cadbc58b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.323f838f.js"
+  ]
+}
